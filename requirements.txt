@@ -1,0 +1,19 @@
+fastapi
+uvicorn[standard]
+tensorflow
+sqlalchemy
+psycopg2-binary      # PostgreSQL driver
+pandas
+numpy
+websockets
+python-multipart
+httpx
+slowapi
+python-dotenv
+pyjwt
+passlib
+bcrypt==4.0.1
+pydantic-ai
+python-jose
+starlette
+joblib
